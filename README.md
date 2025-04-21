@@ -6,7 +6,7 @@
 ## 🛠️ Tech I use
 
 - **Backend:** Go, PostgreSQL, Redis, gRPC, REST API
-- **DevOps:** Docker, GitHub Actions, S3, ClickHouse, Prometheus, Grafana, Loki, Jaeger
+- **DevOps:** Docker
 - **Frontend (basic):** React, React Admin
 - **Other:** JWT, WebSockets, Stripe API, Makefiles
 
