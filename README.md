@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm mdqni 👨‍💻</h1>
-<p align="center">Go backend dev</p>
+<h2 align="center">Go backend dev</h2>
 
 ---
 
@@ -9,6 +9,8 @@
 - **DevOps:** Docker
 - **Frontend (basic):** React, React Admin
 - **Other:** JWT, WebSockets, Stripe API, Makefiles
+- **Used to work with Android development**, but moved to backend
+
 
 ---
 
