@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**mdqni/mdqni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm mdqni
 
-Here are some ideas to get you started:
+I'm a backend developer focused on building reliable systems using Go. I enjoy working with microservices, clean APIs, and solid infrastructure. Currently learning more about observability, CI/CD, and scaling backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech I use
+
+- **Backend:** Go, PostgreSQL, Redis, gRPC, REST API
+- **DevOps:** Docker
+- **Frontend (basic):** React, React Admin
+- **Other:** JWT, WebSockets, Stripe API, Makefiles
+
+---
+
+## 🚧 Projects
+
+### [complaints_api](https://github.com/mdqni/complaints_api)  
+Complaint management system with a single-active-complaint policy per user.  
+Tech: Go, PostgreSQL, Redis, gRPC, Docker  
+➡️ [Check the repo](https://github.com/mdqni/complaints_api)
+
+---
+
+## 📫 Contact me
+
+- Telegram: [@mdqni](https://t.me/mdqni)
+- Email: `quanaimadi@gmail.com`
+
+---
