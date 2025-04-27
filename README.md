@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm mdqni 👨‍💻</h1>
+<h1 align="center">Hi, I'm Mdqni 👨‍💻</h1>
 <h2 align="center">Go backend dev</h2>
 
 ---
