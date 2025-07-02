@@ -16,7 +16,7 @@
 ## 🚀 Projects
 
 ### [🏗️ Attendly](https://github.com/mdqni/Attendly)
-> Scalable microservice-based attendance tracking system with QR codes and location
+> Scalable microservice-based attendance tracking system with QR codes and location  
 > **Stack:** Go · gRPC/gateway · PostgreSQL · Redis · Kafka · Docker
 
 ### [📣 complaints_api](https://github.com/mdqni/complaints_api)
