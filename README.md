@@ -8,7 +8,7 @@
 - **Backend:** Go, PostgreSQL, Redis, gRPC, REST, WebSockets, Kafka
 - **DevOps:** Docker, Docker Compose
 - **Other:** JWT, RBAC, Stripe API
-- **Frontend (basic):** React, React Admin
+- **Frontend:** React, React Admin
 - **Previously:** Android development (Java/Kotlin)
 
 ---
